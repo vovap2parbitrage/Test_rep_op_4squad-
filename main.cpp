@@ -1,8 +1,6 @@
 #include <iostream>
-using namespace std;
-
-int main(){
-    cout << "Hello world (danik)\n";
-    
+int main() 
+{
+    std::cout << "Hello, 4th squad code!" << std::endl;
     return 0;
 }
